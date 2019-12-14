@@ -1,0 +1,204 @@
+div > .clockItems1 {
+  -webkit-transform: rotate(30deg) !important;
+          transform: rotate(30deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-30deg) !important;
+          transform: rotate(-30deg) !important;
+}
+
+div > .clockItems2 {
+  -webkit-transform: rotate(60deg) !important;
+          transform: rotate(60deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-60deg) !important;
+          transform: rotate(-60deg) !important;
+}
+
+div > .clockItems3 {
+  -webkit-transform: rotate(90deg) !important;
+          transform: rotate(90deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-90deg) !important;
+          transform: rotate(-90deg) !important;
+}
+
+div > .clockItems4 {
+  -webkit-transform: rotate(120deg) !important;
+          transform: rotate(120deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-120deg) !important;
+          transform: rotate(-120deg) !important;
+}
+
+div > .clockItems5 {
+  -webkit-transform: rotate(150deg) !important;
+          transform: rotate(150deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-150deg) !important;
+          transform: rotate(-150deg) !important;
+}
+
+div > .clockItems6 {
+  -webkit-transform: rotate(180deg) !important;
+          transform: rotate(180deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-180deg) !important;
+          transform: rotate(-180deg) !important;
+}
+
+div > .clockItems7 {
+  -webkit-transform: rotate(210deg) !important;
+          transform: rotate(210deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-210deg) !important;
+          transform: rotate(-210deg) !important;
+}
+
+div > .clockItems8 {
+  -webkit-transform: rotate(240deg) !important;
+          transform: rotate(240deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-240deg) !important;
+          transform: rotate(-240deg) !important;
+}
+
+div > .clockItems9 {
+  -webkit-transform: rotate(270deg) !important;
+          transform: rotate(270deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-270deg) !important;
+          transform: rotate(-270deg) !important;
+}
+
+div > .clockItems10 {
+  -webkit-transform: rotate(300deg) !important;
+          transform: rotate(300deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-300deg) !important;
+          transform: rotate(-300deg) !important;
+}
+
+div > .clockItems11 {
+  -webkit-transform: rotate(330deg) !important;
+          transform: rotate(330deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-330deg) !important;
+          transform: rotate(-330deg) !important;
+}
+
+div > .clockItems12 {
+  -webkit-transform: rotate(360deg) !important;
+          transform: rotate(360deg) !important;
+  position: absolute;
+  border-radius: 100%;
+  height: inherit;
+  width: inherit;
+  color: black;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+div.clockItems > div {
+  -webkit-transform: rotate(-360deg) !important;
+          transform: rotate(-360deg) !important;
+}
+/*# sourceMappingURL=ClockItems.css.map */

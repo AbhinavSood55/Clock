@@ -1,0 +1,23 @@
+$angle : (360 / 12);
+
+
+
+@for $i from 1 to 13 {
+    div > .clockItems#{$i} {
+        transform: rotate($i * $angle + deg)  !important;
+        position: absolute;
+        border-radius: 100%;
+        height: inherit;
+        width: inherit;
+        color: black;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    div.clockItems>div{
+        transform: rotate($i * $angle * -1 + deg)  !important;
+    }
+}
+
+
+// div .clockItems #

@@ -1,0 +1,55 @@
+.digital-clock-box-BIG {
+    height: 25vmax;
+    width: 50vmax;
+    background-color: bisque;
+    box-sizing: content-box;
+}
+
+.analog-clock-circle-BIG {
+    height: 40vmax;
+    width: 40vmax;
+    border-radius: 50%;
+    border: rgb(90, 107, 107);
+    border-style: dashed;
+    position: relative;
+    /* border-width: 5px; */
+    background: linear-gradient(55deg , rgb(241, 144, 177), rgb(167, 76, 106), rgb(207, 49, 49), rgb(129, 59, 83));
+    box-sizing: content-box;
+}
+
+.Clock{
+    width: inherit;
+    height: inherit;
+    position: relative;
+}
+
+.hand {
+    height: inherit;
+    width: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;    
+}
+
+.hand div{
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: rgb(0, 0, 0);
+}
+
+.seconds{
+    width: 2px;
+    height: 40%;
+}
+
+.minutes{
+    width: 4px;
+    height: 38%;
+}
+
+.hours{
+    width: 8px;
+    height: 30%;
+}
